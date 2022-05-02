@@ -9,17 +9,21 @@ It's a vue form element package.
 <br/>
 <br/>
 
-![CircleCI](https://circleci.com/gh/Kozmonos/package-vue-form-elements.svg?style=shield)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=onuraycicek_storybook-test&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=onuraycicek_storybook-test)
-
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=onuraycicek_storybook-test&metric=coverage)](https://sonarcloud.io/summary/new_code?id=onuraycicek_storybook-test)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Kozmonos_package-vue-ui&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Kozmonos_package-vue-ui)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Kozmonos_package-vue-ui&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Kozmonos_package-vue-ui)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Kozmonos_package-vue-ui&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Kozmonos_package-vue-ui)
 
+![CircleCI](https://img.shields.io/circleci/build/gh/Kozmonos/package-vue-form-elements?style=for-the-badge)
+![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/onuraycicek_storybook-test?server=https%3A%2F%2Fsonarcloud.io&style=for-the-badge)
 
-[![npm](https://badge.fury.io/js/@kozmonos%2Fform-elements.svg)](https://www.npmjs.com/package/@kozmonos/form-elements)
 
+
+![Sonar Coverage](https://img.shields.io/sonar/coverage/Kozmonos_package-vue-ui?server=http%3A%2F%2Fsonarcloud.io&style=for-the-badge)
+
+
+
+[![npm version](https://img.shields.io/npm/v/@kozmonos/form-elements?style=for-the-badge)](https://www.npmjs.com/package/@kozmonos/form-elements)
+![npm bundle size](https://img.shields.io/bundlephobia/min/@kozmonos/form-elements?style=for-the-badge)
 
 ---
 
