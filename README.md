@@ -13,21 +13,17 @@ It's a vue form element package.
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Kozmonos_package-vue-ui&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Kozmonos_package-vue-ui)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Kozmonos_package-vue-ui&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Kozmonos_package-vue-ui)
 
-![CircleCI](https://img.shields.io/circleci/build/gh/Kozmonos/package-vue-form-elements?style=for-the-badge)
-![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/onuraycicek_storybook-test?server=https%3A%2F%2Fsonarcloud.io&style=for-the-badge)
+![CircleCI](https://img.shields.io/circleci/build/gh/Kozmonos/package-vue-form-elements?style=flat-square)
+![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/onuraycicek_storybook-test?server=https%3A%2F%2Fsonarcloud.io&style=flat-square)
+![Sonar Coverage](https://img.shields.io/sonar/coverage/Kozmonos_package-vue-ui?server=http%3A%2F%2Fsonarcloud.io&style=flat-square)
 
 
 
-![Sonar Coverage](https://img.shields.io/sonar/coverage/Kozmonos_package-vue-ui?server=http%3A%2F%2Fsonarcloud.io&style=for-the-badge)
+[![npm version](https://img.shields.io/npm/v/@kozmonos/form-elements?style=flat-square)](https://www.npmjs.com/package/@kozmonos/form-elements)
+![npm bundle size](https://img.shields.io/bundlephobia/min/@kozmonos/form-elements?style=flat-square)
 
 
-
-[![npm version](https://img.shields.io/npm/v/@kozmonos/form-elements?style=for-the-badge)](https://www.npmjs.com/package/@kozmonos/form-elements)
-![npm bundle size](https://img.shields.io/bundlephobia/min/@kozmonos/form-elements?style=for-the-badge)
-
----
-
-### IMPORTANT
+## BEFORE USAGE 
 
 After installation you have to import selected css files.
 ```js
@@ -35,7 +31,11 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 ```
 
-### Documentation
+## Package
+
+[![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@kozmonos/form-elements)
+
+## Documentation
 
 [![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://master--626e63bb3e6c25004ac0bcb1.chromatic.com)
 
